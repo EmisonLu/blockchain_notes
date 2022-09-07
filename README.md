@@ -1,6 +1,6 @@
 # Blockchain
 
-[toc]
+推荐下载[Typora](https://typora.io/)本地查看
 
 ## BTC
 
